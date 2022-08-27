@@ -1,16 +1,11 @@
 # pacman
 
-A new Flutter project.
+## Desafio
 
-## Getting Started
+O objetivo deste teste é implementar um jogo de labirinto no flutter.
 
-This project is a starting point for a Flutter application.
+### `Rodar na web`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para testar o projeto na web execute no prompt de comando: `flutter run -d web-server`
+Digite o número desejado
+E aperte enter para obter o resultado
